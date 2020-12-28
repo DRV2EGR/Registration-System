@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b4057b5-a824-44cf-b364-ceb5b1ad297f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/registrationClient.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/Auth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/Notes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/UserLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/Auth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/UserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/UserLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teacherGithub/Study" beforeDir="false" afterPath="$PROJECT_DIR$/../../teacherGithub/Study" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m7eKhqHJOCLaAVMSFB0ikl5OGn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../registrationClient" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Danila\YandexDisk\Institute\DataFrame\OwnProject\RegistrationServ\src\main\resources" />
+      <recent name="C:\Users\Danila\YandexDisk\Institute\DataFrame\OwnProject\RegistrationServ\src\main\java\RegistrationServ" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ServMain">
+    <configuration name="ServMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegistrationServ.ServMain" />
+      <module name="RegistrationServ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Console.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/DataBase/Console.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="3a7ea9ad-1aa5-402d-abe8-1ed68eaca9ca" namespace="database/&quot;postgres&quot;/schema/&quot;registration&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="registration []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServMain" />
+      <item itemvalue="Database Script.Console.sql" />
+      <item itemvalue="Maven.registration []" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4057b5-a824-44cf-b364-ceb5b1ad297f" name="Default Changelist" comment="" />
+      <created>1608849001753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608849001753</updated>
+      <workItem from="1608849002926" duration="1423000" />
+      <workItem from="1608894498159" duration="2655000" />
+      <workItem from="1608897772646" duration="10412000" />
+      <workItem from="1609018895840" duration="1484000" />
+      <workItem from="1609064257048" duration="2501000" />
+      <workItem from="1609168835298" duration="530000" />
+      <workItem from="1609177470744" duration="6415000" />
+    </task>
+    <task id="LOCAL-00001" summary="add &quot;create table registration.users&quot; and &quot;create table registration.usersInfo&quot; scripts.">
+      <created>1608896870226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608896870226</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1608899611768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608899611768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1608899647213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608899647213</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add &quot;create table registration.users&quot; and &quot;create table registration.usersInfo&quot; scripts." />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1608849812323">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1608849812323" />
+    <state x="206" y="259" key="#SQL_Dialects" timestamp="1608850176749">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="206" y="259" key="#SQL_Dialects/0.0.1536.834@0.0.1536.834" timestamp="1608850176749" />
+    <state x="361" y="73" width="1089" height="458" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609178898407">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="355" width="1089" height="458" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609020272038" />
+    <state x="361" y="73" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1609178898407" />
+    <state x="531" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1609181967674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="531" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1609181967674" />
+    <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1608898204827">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1608897927229" />
+    <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1608898204827" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1608894928154">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1608894928154" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1608909002761">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1608909002761" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608900675096" />
+    <state width="1493" height="318" key="GridCell.Tab.0.bottom" timestamp="1609182295720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066767368" />
+    <state width="1493" height="318" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609182295720" />
+    <state width="1493" height="318" key="GridCell.Tab.0.center" timestamp="1609182295720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066767368" />
+    <state width="1493" height="318" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609182295720" />
+    <state width="1493" height="318" key="GridCell.Tab.0.left" timestamp="1609182295720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066767368" />
+    <state width="1493" height="318" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609182295720" />
+    <state width="1493" height="318" key="GridCell.Tab.0.right" timestamp="1609182295720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066767368" />
+    <state width="1493" height="318" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609182295720" />
+    <state width="1493" height="204" key="GridCell.Tab.1.bottom" timestamp="1609181500055">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066767368" />
+    <state width="1493" height="204" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609181500055" />
+    <state width="1493" height="204" key="GridCell.Tab.1.center" timestamp="1609181500055">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066767368" />
+    <state width="1493" height="204" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1609181500055" />
+    <state width="1493" height="204" key="GridCell.Tab.1.left" timestamp="1609181500055">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066767368" />
+    <state width="1493" height="204" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1609181500055" />
+    <state width="1493" height="204" key="GridCell.Tab.1.right" timestamp="1609181500055">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066767368" />
+    <state width="1493" height="204" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1609181500055" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1609178309119">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1609178309119" />
+    <state width="775" height="424" key="XDebugger.FullValuePopup" timestamp="1609180244110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="775" height="424" key="XDebugger.FullValuePopup/0.0.1536.834@0.0.1536.834" timestamp="1609180244110" />
+    <state x="566" y="238" width="778" height="346" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1609066348366">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="566" y="238" width="778" height="346" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1609066348366" />
+    <state x="587" y="85" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1609182994732">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="587" y="85" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1609182994732" />
+    <state x="302" y="153" width="931" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609182368524">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="302" y="153" width="931" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1609182368524" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/ServMain.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/ServMain.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RegistrationServ/RestController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="27" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="new UserLogin(&#10;                            resultUserLogin.getInt(&quot;id&quot;),&#10;                            resultUserLogin.getString(&quot;login&quot;),&#10;                            resultUserLogin.getString(&quot;password&quot;))" />
+        <watch expression="                        new UserInfo(&#10;                                resultUserInfo.getString(&quot;name&quot;),&#10;                                resultUserInfo.getString(&quot;secondName&quot;),&#10;                                resultUserInfo.getInt(&quot;age&quot;),&#10;                                resultUserInfo.getString(&quot;location&quot;))));" language="JAVA" />
+        <watch expression="resultUserInfo" />
+        <watch expression="new UserLogin(&#10;                            resultUserLogin.getInt(&quot;id&quot;),&#10;                            resultUserLogin.getString(&quot;login&quot;),&#10;                            resultUserLogin.getString(&quot;password&quot;))" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
