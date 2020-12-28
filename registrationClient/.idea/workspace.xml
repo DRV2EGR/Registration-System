@@ -29,26 +29,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa23454-4422-4a9b-88be-d4a4f4837730" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/registrationClient.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/Auth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/Notes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/UserInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/src/main/java/kursach/registrationClient/registration/UserLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/Auth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/Client$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/UserInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../registrationClient/target/classes/kursach/registrationClient/registration/UserLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../teacherGithub/Study" beforeDir="false" afterPath="$PROJECT_DIR$/../../teacherGithub/Study" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegistrationServ/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegistrationServ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegistrationServ/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +45,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -165,6 +147,7 @@
       <workItem from="1608909011649" duration="700000" />
       <workItem from="1609018833384" duration="57000" />
       <workItem from="1609168728663" duration="101000" />
+      <workItem from="1609186598894" duration="212000" />
     </task>
     <servers />
   </component>
