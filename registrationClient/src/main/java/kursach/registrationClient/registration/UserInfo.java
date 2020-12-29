@@ -11,12 +11,22 @@ public class UserInfo {
     String location;
 
     @JsonCreator
-    public UserInfo(@JsonProperty("name")String name,@JsonProperty("lastName") String lastName, @JsonProperty("age")int age,
+    public UserInfo(@JsonProperty("name")String name, @JsonProperty("lastName") String lastName, @JsonProperty("age")int age,
                     @JsonProperty("location") String location){
         this.age = age;
         this.lastName = lastName;
         this.name = name;
         this.location = location;
+    }
+
+    @Override
+    public String toString() {
+        return "UserInfo{" +
+                "name='" + name + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", age=" + age +
+                ", location='" + location + '\'' +
+                '}';
     }
 
     public String getName() {

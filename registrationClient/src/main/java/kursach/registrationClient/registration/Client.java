@@ -53,14 +53,15 @@ public class Client {
                 currentUser = Auth.Authentication(usersDatabase, login, password);
                 i--;
                 if(currentUser != null) {
-
+                    System.out.println("User`s location:" + currentUser.userInfo.location);
+                    break;
                 }
                 else if(currentUser == null && i != 0){
                     System.out.println("Erorr! Invalid user name or password. Please repeat your enter. You have " + i +
                             " attempts");
                 }
                 else if(currentUser == null && i == 0){
-                    System.out.println("You don`t gave any more attepts left. Try again later.");
+                    System.out.println("You don`t gave any more attempts left. Try again later.");
                     return;
                 }
             }
@@ -89,7 +90,7 @@ public class Client {
                     .register(JacksonJsonProvider.class)
                     .build()
                     .target("http://localhost")
-                    .path("Auth/sendUsers")
+                    .path("Auth/RegistrationNewUser\n")
                     .request("application/json")
                     .header("Content-Type","application/json")
                     .post(Entity.entity(newUser, MediaType.APPLICATION_JSON), User.class);

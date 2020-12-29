@@ -29,22 +29,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa23454-4422-4a9b-88be-d4a4f4837730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-lesson/my.experiments.services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-lesson/my.experiments.services/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-lesson/my.experiments.services/services.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-lesson/my.experiments.services/services.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomePractice/RestAndCLient/src/main/java/my/home/RestAndClients/restfull.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePractice/RestAndCLient/src/main/java/my/home/RestAndClients/restfull.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Auth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Notes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/UserInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/UserLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/Auth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/Client$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/UserInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/UserLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegistrationServ/.idea/dataSources/3a7ea9ad-1aa5-402d-abe8-1ed68eaca9ca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegistrationServ/.idea/dataSources/3a7ea9ad-1aa5-402d-abe8-1ed68eaca9ca.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegistrationServ/.idea/dataSources/3a7ea9ad-1aa5-402d-abe8-1ed68eaca9ca/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../RegistrationServ/.idea/dataSources/3a7ea9ad-1aa5-402d-abe8-1ed68eaca9ca/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegistrationServ/.idea/dataSources/3a7ea9ad-1aa5-402d-abe8-1ed68eaca9ca/storage_v2/_src_/database/postgres.edMnLQ/schema/registration.ueiDrw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../RegistrationServ/.idea/dataSources/3a7ea9ad-1aa5-402d-abe8-1ed68eaca9ca/storage_v2/_src_/database/postgres.edMnLQ/schema/registration.ueiDrw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegistrationServ/src/main/java/RegistrationServ/RestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RegistrationServ/src/main/java/RegistrationServ/RestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegistrationServ/target/classes/RegistrationServ/RestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RegistrationServ/target/classes/RegistrationServ/RestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registrationClient/registration/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kursach/registrationClient/registration/Client.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../registration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RegistrationServ" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -90,17 +82,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Client">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kursach.registrationClient.registration.Client" />
       <module name="registrationClient" />
@@ -117,6 +98,19 @@
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kursach.registration.registration.Client" />
       <module name="registrationClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,8 +140,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Maven.RestClient []" />
       <item itemvalue="Application.Client" />
+      <item itemvalue="Maven.RestClient []" />
     </list>
     <recent_temporary>
       <list>
@@ -168,6 +162,7 @@
       <workItem from="1605719427967" duration="7722000" />
       <workItem from="1606581424535" duration="5180000" />
       <workItem from="1607371538219" duration="3245000" />
+      <workItem from="1609243197689" duration="1730000" />
     </task>
     <servers />
   </component>
@@ -187,9 +182,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="20" key="#Project_Structure" timestamp="1605724526043">
-      <screen x="0" y="20" width="1920" height="1060" />
+    <state x="-1920" y="0" key="#Project_Structure" timestamp="1609244051226">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1920" y="0" key="#Project_Structure/0.0.1536.834/-1920.0.1920.1080/0.1080.1097.617@-1920.0.1920.1080" timestamp="1609244051226" />
     <state x="0" y="20" key="#Project_Structure/0.20.1920.1060@0.20.1920.1060" timestamp="1605724526043" />
     <state x="415" y="198" width="1140" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605200807873">
       <screen x="0" y="20" width="1920" height="1060" />
@@ -207,29 +203,34 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="551" y="286" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1607373907971" />
-    <state x="553" y="179" key="FileChooserDialogImpl" timestamp="1606581591296">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="-1229" y="232" key="FileChooserDialogImpl" timestamp="1609243272578">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1229" y="232" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609243272578" />
     <state x="553" y="179" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1606581591296" />
     <state x="691" y="248" key="FileChooserDialogImpl/0.20.1920.1060@0.20.1920.1060" timestamp="1605272141774" />
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1607374790197">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom" timestamp="1609244776084">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1080/0.1080.1097.617@-1920.0.1920.1080" timestamp="1609244776084" />
     <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1607374790197" />
     <state width="1860" height="267" key="GridCell.Tab.0.bottom/0.20.1920.1060@0.20.1920.1060" timestamp="1605731620684" />
-    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1607374790197">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1877" height="293" key="GridCell.Tab.0.center" timestamp="1609244776084">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1080/0.1080.1097.617@-1920.0.1920.1080" timestamp="1609244776084" />
     <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1607374790197" />
     <state width="1860" height="267" key="GridCell.Tab.0.center/0.20.1920.1060@0.20.1920.1060" timestamp="1605731620684" />
-    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1607374790196">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1877" height="293" key="GridCell.Tab.0.left" timestamp="1609244776084">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1080/0.1080.1097.617@-1920.0.1920.1080" timestamp="1609244776084" />
     <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1607374790196" />
     <state width="1860" height="267" key="GridCell.Tab.0.left/0.20.1920.1060@0.20.1920.1060" timestamp="1605731620684" />
-    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1607374790197">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right" timestamp="1609244776084">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1080/0.1080.1097.617@-1920.0.1920.1080" timestamp="1609244776084" />
     <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1607374790197" />
     <state width="1860" height="267" key="GridCell.Tab.0.right/0.20.1920.1060@0.20.1920.1060" timestamp="1605731620684" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1607374790197">
@@ -275,47 +276,47 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>91</line>
+          <line>92</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>92</line>
+          <line>93</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>94</line>
+          <line>95</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>93</line>
+          <line>94</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>95</line>
+          <line>96</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>96</line>
+          <line>97</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>97</line>
+          <line>98</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>98</line>
+          <line>99</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java</url>
-          <line>99</line>
+          <line>100</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
