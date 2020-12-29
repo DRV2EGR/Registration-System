@@ -1,12 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>my.experiments</groupId>
-    <artifactId>services</artifactId>
+    <groupId>Library</groupId>
+    <artifactId>Client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>RegistrationServ</name>
     <properties>
-        <exec.mainClass>kursach.registrationClient.registration.Client</exec.mainClass>
-        <spring.version>2.2.8.RELEASE</spring.version>
+        <exec.mainClass>Rader</exec.mainClass>
     </properties>
     <build>
         <plugins>
@@ -29,24 +27,14 @@
     </build>
     <dependencies>
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-actuator</artifactId>
-            <version>${spring.version}</version>
+            <groupId>com.fasterxml.jackson.jaxrs</groupId>
+            <artifactId>jackson-jaxrs-json-provider</artifactId>
+            <version>2.11.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.cxf</groupId>
-            <artifactId>cxf-spring-boot-starter-jaxws</artifactId>
+            <artifactId>cxf-rt-rs-client</artifactId>
             <version>3.3.7</version>
-        </dependency>
-        <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>42.2.10</version>
         </dependency>
     </dependencies>
 </project>
