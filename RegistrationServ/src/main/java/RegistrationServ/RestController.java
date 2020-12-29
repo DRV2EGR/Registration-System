@@ -70,6 +70,7 @@ public class RestController {
             return usersArr;
     }
 //TODO Не работал метод в клиенте, потому что поле value было одинаковым
+
 //    @RequestMapping(
 //        value = "/sendUsers",
 //        method = RequestMethod.POST)

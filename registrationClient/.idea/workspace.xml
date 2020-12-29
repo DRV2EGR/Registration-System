@@ -29,8 +29,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa23454-4422-4a9b-88be-d4a4f4837730" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../RegistrationServ/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RegistrationServ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegistrationServ/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-lesson/my.experiments.services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-lesson/my.experiments.services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-lesson/my.experiments.services/services.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-lesson/my.experiments.services/services.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePractice/RestAndCLient/src/main/java/my/home/RestAndClients/restfull.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePractice/RestAndCLient/src/main/java/my/home/RestAndClients/restfull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/Notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kursach/registration/registration/UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kursach/registrationClient/registration/UserLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/Auth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/UserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kursach/registration/registration/UserLogin.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +78,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../registration" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -72,11 +86,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="kursach.registrationClient.registration" />
       <recent name="kursach.registration.registration" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Client">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kursach.registrationClient.registration.Client" />
       <module name="registrationClient" />
@@ -122,8 +146,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Client" />
       <item itemvalue="Maven.RestClient []" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
@@ -144,10 +168,6 @@
       <workItem from="1605719427967" duration="7722000" />
       <workItem from="1606581424535" duration="5180000" />
       <workItem from="1607371538219" duration="3245000" />
-      <workItem from="1608909011649" duration="700000" />
-      <workItem from="1609018833384" duration="57000" />
-      <workItem from="1609168728663" duration="101000" />
-      <workItem from="1609186598894" duration="212000" />
     </task>
     <servers />
   </component>
@@ -183,10 +203,9 @@
       <screen x="0" y="20" width="1920" height="1060" />
     </state>
     <state x="653" y="307" key="#com.intellij.ide.util.TreeClassChooserDialog/0.20.1920.1060@0.20.1920.1060" timestamp="1605200803491" />
-    <state x="551" y="286" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608909084860">
+    <state x="551" y="286" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607373907971">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="551" y="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/0.1080.1097.617@0.0.1536.834" timestamp="1608909084860" />
     <state x="551" y="286" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1607373907971" />
     <state x="553" y="179" key="FileChooserDialogImpl" timestamp="1606581591296">
       <screen x="0" y="0" width="1536" height="834" />
