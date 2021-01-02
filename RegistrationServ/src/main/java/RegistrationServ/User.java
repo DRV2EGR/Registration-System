@@ -19,8 +19,8 @@ public class User {
         this.userInfo=new UserInfo(name, lastName, age, location);
         this.userLogin = new UserLogin(id, login, password);
     }
-    @JsonCreator
-    public User(@JsonProperty UserLogin userLogin, @JsonProperty UserInfo userInfo) {
+
+    public User(UserLogin userLogin,  UserInfo userInfo) {
         this.userInfo =userInfo;
         this.userLogin = userLogin;
     }

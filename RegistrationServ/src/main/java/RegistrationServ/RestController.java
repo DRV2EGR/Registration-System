@@ -27,23 +27,24 @@ public class RestController {
             Connection c = DriverManager.getConnection(
                             "jdbc:postgresql://localhost:5432/postgres?currentSchema=registration",
                             "postgres",
-                            "plami");
+                            "");
             Statement stUsrLgn = c.createStatement();
             Statement stUsrInf = c.createStatement();
             ResultSet resultUserLogin = stUsrLgn.executeQuery("select id, login, password from users");
             ResultSet resultUserInfo = stUsrInf.executeQuery("select users_info.name, secondname, age, location from users_info");
             while(resultUserLogin.next()){
-                resultUserInfo.next();
-                usersArr.add(new User(
-                        new UserLogin(
+                if (resultUserInfo.next()) {
+                    usersArr.add(new User(
+
                             resultUserLogin.getInt("id"),
                             resultUserLogin.getString("login"),
-                            resultUserLogin.getString("password")),
-                        new UserInfo(
-                                resultUserInfo.getString("name"),
-                                resultUserInfo.getString("secondName"),
-                                resultUserInfo.getInt("age"),
-                                resultUserInfo.getString("location"))));
+                            resultUserLogin.getString("password"),
+
+                            resultUserInfo.getString("name"),
+                            resultUserInfo.getString("secondName"),
+                            resultUserInfo.getInt("age"),
+                            resultUserInfo.getString("location")));
+                }
             }
         }
         catch (ClassNotFoundException e) {
@@ -60,7 +61,7 @@ public class RestController {
     public boolean addUser(String login,String password,String name,String lastName,int age,String location) {
         try {
             Class.forName("org.postgresql.Driver");
-            Connection c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres?currentSchema=registration", "postgres", "plami");
+            Connection c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres?currentSchema=registration", "postgres", "");
             PreparedStatement stLog = c.prepareStatement("insert into users (login, password) values (?, ?);");
             stLog.setString(1, login);
             stLog.setString(2, password);
@@ -108,10 +109,10 @@ public class RestController {
                 newUser.getUserInfo().getLocation());
         addUser(newUser.getUserLogin().getLogin(),
                 newUser.getUserLogin().getPassword(),
-                newUser.userInfo.getName(),
+                newUser.getUserInfo().getName(),
                 newUser.getUserInfo().getLastName(),
                 newUser.getUserInfo().getAge(),
-                newUser.userInfo.location);
+                newUser.getUserInfo().getLocation());
         refresh();
 //       return "Ok";
     }
